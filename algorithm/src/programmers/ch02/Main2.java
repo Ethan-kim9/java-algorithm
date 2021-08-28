@@ -2,6 +2,8 @@ package programmers.ch02;
 
 
 class Solution {
+
+    // 기능개발 <- level 2 ,꼭 다시풀자..
     public int[] solution(int[] progresses, int[] speeds) {
 
         int[] temp = new int[100];

@@ -2,7 +2,7 @@ package programmers.ch01;
 import java.util.ArrayList;
 import java.util.List;
 
-//폰켓몬
+//폰켓몬 level 1
 class Solution {
     public int solution(int[] nums) {
         int answer = 0;

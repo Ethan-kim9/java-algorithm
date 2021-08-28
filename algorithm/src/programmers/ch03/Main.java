@@ -1,8 +1,7 @@
 package programmers.ch03;
-
+//삼진법 뒤집기 (Level 1)
 class Solution {
     public int solution(int n) {
-
         int answer = 0;
         String third = "";
 
@@ -22,7 +21,7 @@ class Solution {
 //        }
         answer = Integer.parseInt(third,3);
         // 있는거 잘 찾아보고 가져다 쓰자..
-        
+
         return answer;
     }
 }
